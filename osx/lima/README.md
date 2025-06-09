@@ -1,5 +1,5 @@
 # Lima usage examples
-# Docker
+## Docker
 Create the default docker instance with:
 ```
 brew install lima
